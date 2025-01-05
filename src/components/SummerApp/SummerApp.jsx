@@ -196,7 +196,7 @@ const SummerApp = () => {
                 <img src={humidity_icon} alt="" className="icon" />
                 <div className="data">
                 <div className="type">Humidity</div>
-                    <div className="allergen-density">Hot!</div>
+                    <div className="allergen-density">Hot! Test</div>
                     
                 </div>
             </div>
